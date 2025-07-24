@@ -3,7 +3,7 @@
 🏏 End-to-End Cricket Data Analytics Project
 
 📽️ Project Demo
-🔗 Watch the video demo here (You can upload the video to YouTube or embed a GIF preview here)
+🔗 Watch the video demo here (https://www.linkedin.com/posts/manviofficial_dataanalytics-python-webscraping-activity-7354004977167577089-5RbD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESww1gB_GMB_rLAcbilh5VTHBskCC55Cpk)
 
 📌 Project Overview
 
